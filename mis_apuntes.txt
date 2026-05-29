@@ -1,0 +1,206 @@
+cat << 'EOF' >> mis_apuntes.txt
+¿Qué propuso Alan Turing en 1950 en 'Computing Machinery and Intelligence'? | El Test de Turing, para medir la inteligencia y la indistinguibilidad de una máquina frente a un humano.
+¿Cuál fue el aporte de McCulloch y Walter Pitts en 1943? | Crearon un modelo matemático de la neurona como unidad de procesamiento lógico ('A Logical Calculus Of the Ideas Immanent in Nervous Activity').
+¿Qué desarrolló Frank Rosenblatt entre 1957 y 1958? | El Perceptron: una red neuronal y máquina con IA primitiva diseñada para reconocer patrones.
+¿Qué logro alcanzó Arthur Samuel en 1943 en el ámbito del Machine Learning? | Creó una máquina de damas capaz de aprender a partir de la experiencia.
+¿Qué sistema desarrolló Joseph Weizenbaum en 1966? | ELIZA: un programa diseñado para simular una conversación humana.
+¿Qué hito marcó la supercomputadora Deep Blue de IBM en 1997? | Logró la derrota en ajedrez del campeón mundial Garry Kasparov.
+¿Qué impacto tuvo ChatGPT (Modelo GPT-3.5) en 2022 respecto a la historia de la IA? | Relegó el Test de Turing, alcanzando una sofisticación conversacional que antes se consideraba inalcanzable.
+¿Qué es la IA Estrecha (ANI)? | Una IA diseñada para realizar tareas específicas o limitadas; no puede razonar (ej. ChatGPT, asistentes de voz).
+¿Qué nivel alcanza la IA General (AGI)? | Nivel teórico donde la máquina iguala la capacidad intelectual humana, capaz de realizar cualquier tarea intelectual sin entrenamiento previo.
+¿Qué define a la Superinteligencia (ASI)? | Concepto hipotético donde la IA supera ampliamente la inteligencia humana en todos los campos, incluyendo creatividad y habilidades sociales.
+¿En qué consiste el Aprendizaje Supervisado? | Algoritmo entrenado con datos etiquetados (entradas con respuestas conocidas) para aprender a clasificar o predecir resultados.
+¿Cómo funciona el Aprendizaje No Supervisado? | El sistema analiza datos sin etiquetas para encontrar estructuras ocultas, patrones o agrupaciones por sí mismo (clustering).
+¿En qué se basa el Aprendizaje por Refuerzo? | Basado en la interacción con el entorno; aprende a través de recompensas y penalizaciones para optimizar su comportamiento.
+¿Qué son las Máquinas Reactivas? | Sistemas más básicos que no almacenan recuerdos; solo responden a estímulos actuales (ej. Deep Blue de IBM).
+¿Qué caracteriza a la IA de Memoria Limitada? | Sistemas que pueden almacenar datos históricos por periodos cortos para informar decisiones actuales (ej. vehículos autónomos).
+¿Cuál es el objetivo de la Teoría de la Mente en IA? | Crear IA capaz de comprender emociones, creencias y pensamientos humanos para interactuar socialmente (en investigación).
+¿Qué es la Autoconciencia en la IA? | El nivel máximo (teórico) donde las máquinas poseen conciencia de sí mismas, sentimientos y estados internos propios.
+¿Cómo resuelve problemas el Procesamiento Simbólico (Lógico)? | Se basa en reglas e instrucciones definidas por programadores para resolver problemas mediante la lógica formal.
+¿En qué se inspira el Procesamiento Conexionista? | Inspirado en el cerebro humano; utiliza capas de nodos interconectados (Redes Neuronales) para procesar información y reconocer patrones.
+¿Qué es el Procesamiento Híbrido en IA? | Integración de diferentes técnicas (como Machine Learning + PLN) para crear sistemas más robustos.
+¿Qué hace un Sistema Experto? | Programa que imita el razonamiento de un especialista humano en un área concreta (ej. diagnóstico médico).
+¿Qué es la Robótica en el contexto de la IA? | Combinación de IA con ingeniería para crear máquinas autónomas que realizan tareas físicas en industrias, medicina o el hogar.
+¿Cuál es la función de la Visión Artificial? | Permite a las máquinas interpretar imágenes y videos para reconocimiento facial, diagnóstico médico por imagen y navegación.
+¿Qué permite el Procesamiento del Lenguaje Natural (PLN)? | Permite a los computadores entender, interpretar y generar lenguaje humano (ej. chatbots, traductores automáticos).
+¿Qué define a las Redes Neuronales y Deep Learning? | Modelos avanzados que utilizan múltiples capas para procesar volúmenes masivos de datos (Big Data).
+¿Qué representa la Lógica de predicados (LPO)? | Representa el conocimiento de forma estructurada mediante objetos, propiedades y relaciones.
+En LPO, ¿qué pueden ser los Objetos? | Pueden ser Constantes o Variables.
+¿Qué es una Constante en LPO? | Un elemento del dominio representado con letras minúsculas (desde la letra a).
+¿Qué es una Variable en LPO? | Un individuo de propiedad o relación, representado normalmente por x, y, z.
+¿Qué es un Predicado unario? | Representa propiedades de un objeto, por ejemplo Q(x): "x es de color rojo".
+¿Qué es un Predicado binario? | Representa relaciones entre dos o más objetos, por ejemplo R(x,y): "x es amigo de y".
+¿Cuáles son los Conectores lógicos en LPO? | ^ (y), V (o), → (implica), ¬ (no).
+¿Qué significa la negación del cuantificador existencial (¬∃xP(x))? | Significa: NO existe X que cumpla la propiedad P.
+¿Qué significa el cuantificador universal con negación (∀x¬P(x))? | Significa: Para todo X, NO se cumple la propiedad P (equivale a decir que no existe ninguno).
+¿Qué significan los símbolos ∃ y ∀? | ∃ significa "Existe" (existencial) y ∀ significa "Para todo" (universal).
+¿Cómo genera conocimiento la LPO mediante Inferencia y Resolución? | Inferencia: Deduce info por reglas lógicas. Resolución: Transforma fórmulas y busca contradicciones para validar afirmaciones.
+¿Cuáles son los usos prácticos de la LPO en Inteligencia Artificial? | Sistemas expertos (médicos), Robótica (espacial/causal), PLN, Planificación automática y Ontologías.
+¿Qué ciencias o áreas utilizan la Lógica de Primer Orden (LPO)? | Economía, matemáticas, filosofía, informática, neurociencia y psicología.
+¿Cuál es la regla de inferencia del Silogismo hipotético? | Si P → Q y Q → R; entonces P → R.
+¿Cuál es la regla de inferencia del Modus ponendo ponens? | Si P → Q y se tiene P; entonces se deduce Q.
+¿Cuál es la regla de inferencia del Modus tollendo tollens? | Si P → Q y se tiene ¬Q; entonces se deduce ¬P.
+¿Cuál es la regla de inferencia del Modus tollendo ponens? | Si P V Q y se tiene ¬Q; entonces se deduce Q.
+¿Qué elementos componen el Paradigma conexionista? | Evolutivo (AG), RNA (Redes Neuronales Artificiales) y agentes.
+En DFS (Búsqueda en profundidad), ¿qué es una arista de cruce? | Enlaza nodos de diferentes ramas de un árbol sin tener una relación ancestro-descendiente.
+¿Cuál es la principal diferencia entre KNN y K-Means? | KNN utiliza datos etiquetados (aprendizaje supervisado) y K-Means no (aprendizaje no supervisado).
+¿Cuál es la mayor desventaja del algoritmo BFS (Búsqueda en anchura)? | Su elevado consumo de memoria RAM.
+¿Cuál es un ejemplo clásico de Aprendizaje deductivo? | El Sistema de producción.
+En el algoritmo KNN, ¿qué representa la variable k? | El número de vecinos más cercanos a considerar para la clasificación.
+¿Cuál es la función principal del algoritmo KNN? | Clasifica datos por votación mayoritaria de sus k vecinos más cercanos.
+En una estructura FRAME, ¿qué significan SLOT, Filler y Naturaleza? | SLOT: Atributo. Filler: El valor del slot. Naturaleza: Contexto al que pertenece.
+En un FRAME, ¿cuál es la diferencia entre los demonios if-added e if-needed? | if-added: Se activa al asignar un valor inicial al slot. if-needed: Calcula información de manera dinámica cuando se requiere.
+¿Qué aporte hicieron Newell y Simon en los años 70s y 80s? | El uso de reglas para modelar el comportamiento humano.
+¿Cuál es la característica principal del algoritmo DBSCAN? | Es una técnica de clustering basada en la densidad.
+¿Qué es un Sistema de Producción en IA? | Un sistema que usa reglas declarativas para modelar el comportamiento experto, separando el conocimiento y el control.
+¿Qué propuso Ross Quillian en su modelo de almacenamiento de 1966? | Propuso que las computadoras exploran el significado de las palabras mediante conexiones.
+¿Qué define a los Sistemas reactivos dentro de los sistemas de producción? | Son aquellos cuyas conclusiones especifican acciones externas directamente.
+¿Qué es el Ciclo de ejecución (Motor de Inferencia)? | Es el ciclo repetitivo diseñado para resolver un problema.
+¿Cómo funciona la etapa de Reconocimiento (emparejamiento) mediante Encadenamiento hacia adelante? | Compara los hechos existentes para determinar qué regla se debe disparar.
+¿Cómo funciona el Encadenamiento hacia atrás en la etapa de reconocimiento? | Busca la meta descomponiéndola por submetas en los hechos (conclusión de una regla).
+¿Qué hace el Resolutor de conflictos en un motor de inferencia? | Elige cuál regla ejecutar primero de entre todas las reglas que coinciden (conflictúan).
+¿Cuál es la función del Disparador en el ciclo de ejecución? | Ejecuta la acción seleccionada y repite el ciclo hasta llegar a la meta.
+¿Qué es la Base de reglas (Memoria de producción)? | Es el conjunto de producciones que operan directamente sobre los hechos.
+¿Qué caracteriza a los Sistemas deductivos? | Son sistemas donde las reglas añaden nuevas afirmaciones a la Base de Datos (BD).
+¿Qué es la Base de hechos (Memoria de trabajo)? | Estructura de datos central de información para manejar datos según el contexto y el problema actual.
+¿Qué hace una Regla de producción (IF-THEN)? | Transfiere el conocimiento de un humano experto al sistema informático.
+EOF
+Marcos | Manera flexible de organizar la información, facilitando relaciones complejas entre elementos mediante atributos que definen una entidad específica.
+Contenido de frame | Nombre: identificador único de marco; Naturaleza: contexto al que pertenece; Slot: propiedades que lo describen.
+Composición del Slot | Nombre: id único; Tipo: tipo de dato del valor de atributo; Valor: del atributo; Default: valor inicial; Restricción: condición para estar en el frame; Procedimiento/Demonios: acciones para editar valores.
+if-added | añadir valor inicialmente.
+if needed | calcular o modificar valor.
+if-removed | cuando acciones eliminan un valor.
+X
+¿Qué propuso Alan Turing en 1950 en 'Computing Machinery and Intelligence'? | El Test de Turing, para medir la inteligencia y la indistinguibilidad de una máquina frente a un humano.
+¿Cuál fue el aporte de McCulloch y Walter Pitts en 1943? | Crearon un modelo matemático de la neurona como unidad de procesamiento lógico ('A Logical Calculus Of the Ideas Immanent in Nervous Activity').
+¿Qué desarrolló Frank Rosenblatt entre 1957 y 1958? | El Perceptron: una red neuronal y máquina con IA primitiva diseñada para reconocer patrones.
+¿Qué logro alcanzó Arthur Samuel en 1943 en el ámbito del Machine Learning? | Creó una máquina de damas capaz de aprender a partir de la experiencia.
+¿Qué sistema desarrolló Joseph Weizenbaum en 1966? | ELIZA: un programa diseñado para simular una conversación humana.
+¿Qué hito marcó la supercomputadora Deep Blue de IBM en 1997? | Logró la derrota en ajedrez del campeón mundial Garry Kasparov.
+¿Qué impacto tuvo ChatGPT (Modelo GPT-3.5) en 2022 respecto a la historia de la IA? | Relegó el Test de Turing, alcanzando una sofisticación conversacional que antes se consideraba inalcanzable.
+¿Qué es la IA Estrecha (ANI)? | Una IA diseñada para realizar tareas específicas o limitadas; no puede razonar (ej. ChatGPT, asistentes de voz).
+¿Qué nivel alcanza la IA General (AGI)? | Nivel teórico donde la máquina iguala la capacidad intelectual humana, capaz de realizar cualquier tarea intelectual sin entrenamiento previo.
+¿Qué define a la Superinteligencia (ASI)? | Concepto hipotético donde la IA supera ampliamente la inteligencia humana en todos los campos, incluyendo creatividad y habilidades sociales.
+¿En qué consiste el Aprendizaje Supervisado? | Algoritmo entrenado con datos etiquetados (entradas con respuestas conocidas) para aprender a clasificar o predecir resultados.
+¿Cómo funciona el Aprendizaje No Supervisado? | El sistema analiza datos sin etiquetas para encontrar estructuras ocultas, patrones o agrupaciones por sí mismo (clustering).
+¿En qué se basa el Aprendizaje por Refuerzo? | Basado en la interacción con el entorno; aprende a través de recompensas y penalizaciones para optimizar su comportamiento.
+¿Qué son las Máquinas Reactivas? | Sistemas más básicos que no almacenan recuerdos; solo responden a estímulos actuales (ej. Deep Blue de IBM).
+¿Qué caracteriza a la IA de Memoria Limitada? | Sistemas que pueden almacenar datos históricos por periodos cortos para informar decisiones actuales (ej. vehículos autónomos).
+¿Cuál es el objetivo de la Teoría de la Mente en IA? | Crear IA capaz de comprender emociones, creencias y pensamientos humanos para interactuar socialmente (en investigación).
+¿Qué es la Autoconciencia en la IA? | El nivel máximo (teórico) donde las máquinas poseen conciencia de sí mismas, sentimientos y estados internos propios.
+¿Cómo resuelve problemas el Procesamiento Simbólico (Lógico)? | Se basa en reglas e instrucciones definidas por programadores para resolver problemas mediante la lógica formal.
+¿En qué se inspira el Procesamiento Conexionista? | Inspirado en el cerebro humano; utiliza capas de nodos interconectados (Redes Neuronales) para procesar información y reconocer patrones.
+¿Qué es el Procesamiento Híbrido en IA? | Integración de diferentes técnicas (como Machine Learning + PLN) para crear sistemas más robustos.
+¿Qué hace un Sistema Experto? | Programa que imita el razonamiento de un especialista humano en un área concreta (ej. diagnóstico médico).
+¿Qué es la Robótica en el contexto de la IA? | Combinación de IA con ingeniería para crear máquinas autónomas que realizan tareas físicas en industrias, medicina o el hogar.
+¿Cuál es la función de la Visión Artificial? | Permite a las máquinas interpretar imágenes y videos para reconocimiento facial, diagnóstico médico por imagen y navegación.
+¿Qué permite el Procesamiento del Lenguaje Natural (PLN)? | Permite a los computadores entender, interpretar y generar lenguaje humano (ej. chatbots, traductores automáticos).
+¿Qué define a las Redes Neuronales y Deep Learning? | Modelos avanzados que utilizan múltiples capas para procesar volúmenes masivos de datos (Big Data).
+¿Qué representa la Lógica de predicados (LPO)? | Representa el conocimiento de forma estructurada mediante objetos, propiedades y relaciones.
+En LPO, ¿qué pueden ser los Objetos? | Pueden ser Constantes o Variables.
+¿Qué es una Constante en LPO? | Un elemento del dominio representado con letras minúsculas (desde la letra a).
+¿Qué es una Variable en LPO? | Un individuo de propiedad o relación, representado normalmente por x, y, z.
+¿Qué es un Predicado unario? | Representa propiedades de un objeto, por ejemplo Q(x): "x es de color rojo".
+¿Qué es un Predicado binario? | Representa relaciones entre dos o más objetos, por ejemplo R(x,y): "x es amigo de y".
+¿Cuáles son los Conectores lógicos en LPO? | ^ (y), V (o), → (implica), ¬ (no).
+¿Qué significa la negación del cuantificador existencial (¬∃xP(x))? | Significa: NO existe X que cumpla la propiedad P.
+¿Qué significa el cuantificador universal con negación (∀x¬P(x))? | Significa: Para todo X, NO se cumple la propiedad P (equivale a decir que no existe ninguno).
+¿Qué significan los símbolos ∃ y ∀? | ∃ significa "Existe" (existencial) y ∀ significa "Para todo" (universal).
+¿Cómo genera conocimiento la LPO mediante Inferencia y Resolución? | Inferencia: Deduce info por reglas lógicas. Resolución: Transforma fórmulas y busca contradicciones para validar afirmaciones.
+¿Cuáles son los usos prácticos de la LPO en Inteligencia Artificial? | Sistemas expertos (médicos), Robótica (espacial/causal), PLN, Planificación automática y Ontologías.
+¿Qué ciencias o áreas utilizan la Lógica de Primer Orden (LPO)? | Economía, matemáticas, filosofía, informática, neurociencia y psicología.
+¿Cuál es la regla de inferencia del Silogismo hipotético? | Si P → Q y Q → R; entonces P → R.
+¿Cuál es la regla de inferencia del Modus ponendo ponens? | Si P → Q y se tiene P; entonces se deduce Q.
+¿Cuál es la regla de inferencia del Modus tollendo tollens? | Si P → Q y se tiene ¬Q; entonces se deduce ¬P.
+¿Cuál es la regla de inferencia del Modus tollendo ponens? | Si P V Q y se tiene ¬Q; entonces se deduce Q.
+¿Qué elementos componen el Paradigma conexionista? | Evolutivo (AG), RNA (Redes Neuronales Artificiales) y agentes.
+En DFS (Búsqueda en profundidad), ¿qué es una arista de cruce? | Enlaza nodos de diferentes ramas de un árbol sin tener una relación ancestro-descendiente.
+¿Cuál es la principal diferencia entre KNN y K-Means? | KNN utiliza datos etiquetados (aprendizaje supervisado) y K-Means no (aprendizaje no supervisado).
+¿Cuál es la mayor desventaja del algoritmo BFS (Búsqueda en anchura)? | Su elevado consumo de memoria RAM.
+¿Cuál es un ejemplo clásico de Aprendizaje deductivo? | El Sistema de producción.
+En el algoritmo KNN, ¿qué representa la variable k? | El número de vecinos más cercanos a considerar para la clasificación.
+¿Cuál es la función principal del algoritmo KNN? | Clasifica datos por votación mayoritaria de sus k vecinos más cercanos.
+En una estructura FRAME, ¿qué significan SLOT, Filler y Naturaleza? | SLOT: Atributo. Filler: El valor del slot. Naturaleza: Contexto al que pertenece.
+En un FRAME, ¿cuál es la diferencia entre los demonios if-added e if-needed? | if-added: Se activa al asignar un valor inicial al slot. if-needed: Calcula información de manera dinámica cuando se requiere.
+¿Qué aporte hicieron Newell y Simon en los años 70s y 80s? | El uso de reglas para modelar el comportamiento humano.
+¿Cuál es la característica principal del algoritmo DBSCAN? | Es una técnica de clustering basada en la densidad.
+¿Qué es un Sistema de Producción en IA? | Un sistema que usa reglas declarativas para modelar el comportamiento experto, separando el conocimiento y el control.
+¿Qué propuso Ross Quillian en su modelo de almacenamiento de 1966? | Propuso que las computadoras exploran el significado de las palabras mediante conexiones.
+¿Qué define a los Sistemas reactivos dentro de los sistemas de producción? | Son aquellos cuyas conclusiones especifican acciones externas directamente.
+¿Qué es el Ciclo de ejecución (Motor de Inferencia)? | Es el ciclo repetitivo diseñado para resolver un problema.
+¿Cómo funciona la etapa de Reconocimiento (emparejamiento) mediante Encadenamiento hacia adelante? | Compara los hechos existentes para determinar qué regla se debe disparar.
+¿Cómo funciona el Encadenamiento hacia atrás en la etapa de reconocimiento? | Busca la meta descomponiéndola por submetas en los hechos (conclusión de una regla).
+¿Qué hace el Resolutor de conflictos en un motor de inferencia? | Elige cuál regla ejecutar primero de entre todas las reglas que coinciden (conflictúan).
+¿Cuál es la función del Disparador en el ciclo de ejecución? | Ejecuta la acción seleccionada y repite el ciclo hasta llegar a la meta.
+¿Qué es la Base de reglas (Memoria de producción)? | Es el conjunto de producciones que operan directamente sobre los hechos.
+¿Qué caracteriza a los Sistemas deductivos? | Son sistemas donde las reglas añaden nuevas afirmaciones a la Base de Datos (BD).
+¿Qué es la Base de hechos (Memoria de trabajo)? | Estructura de datos central de información para manejar datos según el contexto y el problema actual.
+¿Qué hace una Regla de producción (IF-THEN)? | Transfiere el conocimiento de un humano experto al sistema informático.
+EOF
+Marcos | Manera flexible de organizar la información, facilitando relaciones complejas entre elementos mediante atributos que definen una entidad específica.
+Contenido de frame | Nombre: identificador único de marco; Naturaleza: contexto al que pertenece; Slot: propiedades que lo describen.
+Composición del Slot | Nombre: id único; Tipo: tipo de dato del valor de atributo; Valor: del atributo; Default: valor inicial; Restricción: condición para estar en el frame; Procedimiento/Demonios: acciones para editar valores.
+if-added | añadir valor inicialmente.
+if needed | calcular o modificar valor.
+if-removed | cuando acciones eliminan un valor.
+break|break
+MARCOS: Org. taxonomica| jeraraquia de conocimiento, de lo general a particular.
+MARCde propagacion| OS: Herencia por defecto| sobre escritura de atributos en valores padre
+MARCOS: Excepcion/especializacion| modificar, contradecir valores heredados
+MARCOS: razonamiento basado en expectativas| Completar información
+MARCOS: jerarquia dinamica| modificar jerarquia en tiempo de ejecución.
+MARCOS: Modularidad| frame encapsula conocimiento y puede ser reutilizado.
+MARCOS: Herencia multiple| combinacion de propiedades de multiples padres.
+MARCOS: Matching| ubicar el frame que encaja.
+MARCOS: Herencia por defecto| resolver info faltante.
+MARCOS: Encadenamiento de procedimientos| resplver probs por activacion de demonios.
+MARCOS: EdP: Estrategia de calculo| Si se requiere dato, activa if-Needed
+MARCOS: EdP: Estrategia de propagacion| ante cambio de datos, if-added actualiza otros marcos
+MARCOS: Razonaiento basado en excepciones| prioriza especificidad. 
+MARCOS: Instanciación y relleno de ranuras| rellenar valores segun expectativas.
+Ross Quilian 1966| explorar significado de palabras mediante conexiones
+Allan Collins 1969 y 1972| expandir arcos en proximidad, consecuencia y precedencia: modelos de red asociativa
+John Sowa 70's finales| grafos conceptuales 
+Tim Berners-Lee| vision de la web semantica
+Google 2012| GRafo del conocimiento
+Red asociativa/semantica| forma de la IA que representa info mediante nodos (conceptos) enlazados mediante relaciones para emular la memoria humana
+REd Sem Nodos| nucleo de info que representa un objeto con etiqueta que lo describe
+R-S: arco (enlaces/relaciones)| relacion entre nodos meddiante terminos cortos
+Enfoque R-S conceptual:| El ... es ...
+Enfoque R-S asertiva:| El ... de ...es
+Enfoque R-S implicativa:| si ... es ...entonces es
+Enfoque R-S ejecutable:| hacer ...
+organizacion R-S jerarquica:| similar a arbol
+organizacion R-S no jerarquica:| similar a grafo
+R-S uso:| mapas conceptuales, proces del lenguaje natural y base de datos graficas
+Obj aprendizaje supervisado:| capacidad de generalizar para predecir/clasificar datos nuevos precisos
+Perceptron 1957| imitar funcionamiento de neurona
+algoritmo de retropropagación/backpropagation 1980| redes aprender de sus propios fallos
+Apr-SUp_modelo_clasificacion |asignar nuevas observaciones a categorias discretas para resolucion de dilemas categoricos
+Apr-SUp_modelo_regresión |predecir valores por hechos historicos
+Algoritmo_AS_KNN:| K-Nearest Neighbors
+Algoritmo_AS_KNN Paso 1| Preparar datos: cargar datos y normalizarlos para misma escala
+seleccion de ''k paso 2 KNN|num de vecinos que no causen ruido (valor bajo) o suvizen fronteras (valor bajo)
+calcular distancia entre nuevo punto y datos de entrenamiento paso 3 KNN| distancia euclidiana es más comun
+KNN paso 4|seleccionar vecinos de menos distancia
+KNN paso 5|predecir por votacion mayoritaria
+Regresion Lineal AS p1|Seleccionar datos de  entrada (var independientes) y salida (dependietes)
+Regresion Lineal AS p2|definir parametros,  ecuacion de la recta (mx + b) con valores pequeños
+Regresion Lineal AS p3|predecir y  calcula error
+Regresion Lineal AS p4|ajustar ajustes de m y b para minimizar error
+Regresion Lineal AS p5|evaluar  modelo
+Regresion Lineal metodos preferibles|GRadiente descendiente o Minimos cuadrados
+AS Overfitting| modelo memoriza ruido
+Underfitting|sistema demasiado simple para ver patrones
+AS uso | Amazon SageMaker para recomendacion personal de productos
+Machine Learning| rama de la IA para que maquinas aprendan tareas y patrones con estadistica
+Aprendizaje no supervisado|modelos descubran estructuras ocultas de manera autonoma
+Ventajas AnS| menor preparación de datos, identificar agrupaciones o anomalias en grupos de datos
+Tecnica de agrupación (clustering)| tecnica de organizar datos en grupos/clusters segun su similitudes matematicas
+Pasos K-Means|1. seleccionar k (numero de clusters); 2. inicializar: ubicar al azar k centroides; 3. medir distancia para asignar cada dato al centroide mas cercano; mover centroides al promedio de los puntos asignados; repetir hasta centroides incambiables;
+Metodo del codo| hallar el valor optimo de k, punto de inflexion 
+DBSCAN| identificar clusteres con morfologia libre
+DBSCAN parametro Epsilon ε| Definir radio de busqueda para puntos vecinos
+DBSCAN parametro PUntos minimos MinPts|establecer el umbral de densidad dentro del radio
+Maldición de la dimensionalidad|exceso de variables -> ruido
